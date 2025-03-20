@@ -26,3 +26,8 @@ To run the calculator locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/calculator-app.git
+
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/318300ad-53f5-434c-a949-5cb4c53bba7d)
+
