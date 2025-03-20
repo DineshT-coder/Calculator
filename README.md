@@ -11,7 +11,7 @@ A simple, user-friendly calculator app built using HTML,CSS,JS. This calculator 
 
 ## Demo
 
-You can view a live demo of the calculator app here: [insert live demo link]
+https://dinesht-coder.github.io/Calculator/
 
 ## Technologies Used
 
