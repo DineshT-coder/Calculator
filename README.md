@@ -1,6 +1,6 @@
 # Calculator App
 
-A simple, user-friendly calculator app built using [insert technology stack here, e.g., HTML, CSS, JavaScript, React, etc.]. This calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+A simple, user-friendly calculator app built using HTML,CSS,JS. This calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Features
 
