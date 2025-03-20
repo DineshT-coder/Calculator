@@ -1,4 +1,3 @@
-/* Global Styles */
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -11,7 +10,7 @@ body {
     background-repeat: no-repeat;
 }
 
-/* Header Styling */
+
 header {
     position: fixed;
     top: 0;
@@ -26,7 +25,6 @@ header {
     
 }
 
-/* Footer Styling */
 footer {
     position: fixed;
     bottom: 0;
@@ -39,7 +37,7 @@ footer {
     z-index: 1000;
 }
 
-/* Centering the Calculator */
+
 main {
     flex: 1;
     display: flex;
@@ -49,7 +47,7 @@ main {
     margin-bottom: 60px; /* Space for fixed footer */
 }
 
-/* Calculator Styling */
+
 .calculator {
     background: url(../images/calbg.jpg);
     border-radius: 15px;
